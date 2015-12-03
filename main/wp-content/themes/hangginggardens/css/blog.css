@@ -1,0 +1,142 @@
+/* Blog Template
+Created by Alamaya
+*/
+/* BLOG CLASS */
+
+.blog-holder {
+  margin-top: 40px;
+    padding-bottom: 40px;
+}
+.blog-holder h1 {
+  font-size: 25px;
+  line-height: 35px;
+  margin-bottom: 20px;
+}
+.blog-holder h2 {
+  font-size: 13px;
+  /* border-bottom: 2px solid #000; */
+  margin-top: 0px;
+ /*  padding-bottom: 20px;
+ margin-bottom: 20px; */
+}
+.blog-item {
+  text-align: center;
+  border-bottom: 2px solid #000;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.blog-item h1 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 13px;
+  color: #666;
+  line-height: 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.blog-item h2 {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.blog-item a {
+  color: #666;
+  letter-spacing: 1px;
+  font-size: 12px;
+  padding: 6px 16px 6px 16px;
+  border: 2px solid #494949;
+}
+.blog-item a:hover,
+.blog-item a:focus {
+  color: #000;
+  border: 2px solid #cfcfcf;
+}
+.menu-kanan {
+  text-align: center;
+  border: 1px solid #666;
+  padding: 20px 20px 20px 20px ;
+}
+.menu-kanan .row {
+  margin-bottom: 20px;
+}
+.menu-kanan a {
+  display: inline-block;
+  color: #494949;
+  font-weight: bold;
+  background: #dbdbdb;
+  letter-spacing: 1px;
+  font-size: 12px;
+  padding: 5px 18px 5px 18px;
+  border: 2px solid #cdcdcd;
+  margin-top: 5px; 
+  margin-bottom: 5px;
+}
+.menu-kanan a:hover,
+.menu-kanan a:focus {
+  color: #000;
+  border: 2px solid #cfcfcf;
+}
+.menu-kanan h2 {
+  color: #666;
+  font-weight: bold;
+  font-size: 12px;
+}
+.archives a {
+  display: inline-block;
+  width: 92%;
+  color: #494949;
+  font-weight: bold;
+  background: #dbdbdb;
+  letter-spacing: 1px;
+  font-size: 12px;
+  padding: 5px 18px 5px 18px;
+  margin-top: 5px; 
+  margin-bottom: 0px;
+}
+.archives a:hover,
+.archives a:focus {
+  color: #000;
+  background-color: #FFF;
+}
+/* RESPONSIVE QUERY
+============================================================================*/
+
+@media (max-width: 2600px){
+
+}
+
+@media (max-width: 1280px){
+}
+
+@media (max-width: 1100px){
+}
+
+@media (max-width: 1004px){
+}
+
+@media (max-width: 823px){
+}
+
+@media (max-width: 750px){ /* critical size on tablet */
+
+}
+
+/* critical size position for social media on mobile */
+@media (max-width: 650px){
+
+}
+@media (max-width: 570px){ 
+
+}
+
+/* critical end */
+
+@media (max-width: 560px){
+}
+
+@media (max-width: 350px){
+}

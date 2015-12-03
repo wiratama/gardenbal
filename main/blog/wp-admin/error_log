@@ -1,0 +1,1 @@
+[25-Nov-2015 08:56:39 UTC] WordPress database error Specified key was too long; max key length is 1000 bytes for query CREATE INDEX disqus_dupecheck ON `wp_commentmeta` (meta_key, meta_value(11)); made by require_once('wp-admin/admin.php'), do_action('comments_page_disqus'), call_user_func_array, dsq_manage, dsq_install, dsq_install_database

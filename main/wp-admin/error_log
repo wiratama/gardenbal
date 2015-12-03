@@ -1,0 +1,38 @@
+[29-Oct-2015 01:36:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-includes/meta.php on line 504
+[29-Oct-2015 01:37:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-content/plugins/advanced-custom-fields/core/fields/text.php on line 0
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  reset() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 498
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 501
+[29-Oct-2015 01:37:26 UTC] PHP Warning:  next() expects parameter 1 to be array, boolean given in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 505
+[29-Oct-2015 01:39:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 183
+[29-Oct-2015 01:43:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-content/plugins/advanced-custom-fields/core/fields/_functions.php on line 213
+[29-Oct-2015 01:49:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-content/plugins/advanced-custom-fields/core/fields/_functions.php on line 0
+[29-Oct-2015 01:51:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-content/plugins/acf-repeater/repeater.php on line 362
+[29-Oct-2015 01:54:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-includes/option.php on line 47
+[29-Oct-2015 01:56:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 213
+[29-Oct-2015 01:57:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 213
+[29-Oct-2015 01:59:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-includes/plugin.php on line 210
+[29-Oct-2015 02:00:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-content/plugins/acf-repeater/repeater.php on line 364
+[29-Oct-2015 02:01:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hguofbali/public_html/sandbox/wp-includes/cache.php on line 113
+[06-Nov-2015 03:53:16 UTC] PHP Parse error:  syntax error, unexpected ''post_type_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/hguofbali/public_html/sandbox/wp-content/plugins/hgob/hgob.php on line 28
+[06-Nov-2015 03:53:47 UTC] PHP Parse error:  syntax error, unexpected ''post_type_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/hguofbali/public_html/sandbox/wp-content/plugins/hgob/hgob.php on line 28
+[06-Nov-2015 03:54:08 UTC] PHP Parse error:  syntax error, unexpected ''post_type_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/hguofbali/public_html/sandbox/wp-content/plugins/hgob/hgob.php on line 28
+[06-Nov-2015 03:54:12 UTC] PHP Parse error:  syntax error, unexpected ''post_type_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/hguofbali/public_html/sandbox/wp-content/plugins/hgob/hgob.php on line 28
+[06-Nov-2015 03:59:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hguofbali/public_html/sandbox/wp-content/plugins/hgob/inc/CPT.php on line 591
+[06-Nov-2015 03:59:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/hguofbali/public_html/sandbox/wp-content/plugins/hgob/inc/CPT.php on line 593
+[06-Nov-2015 07:27:37 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hguofbali/public_html/sandbox/wp-content/themes/hangginggardens/functions.php on line 231
+[23-Nov-2015 01:21:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hguofbali/public_html/wp-content/plugins/wp-remove-css-js/admin/g_exclude.php on line 35
+[23-Nov-2015 01:21:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hguofbali/public_html/wp-content/plugins/wp-remove-css-js/admin/g_exclude.php:35) in /home/hguofbali/public_html/wp-includes/pluggable.php on line 1207
